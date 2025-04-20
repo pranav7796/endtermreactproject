@@ -1,3 +1,5 @@
-{
-  "template": "bolt-vite-react-ts"
-}
+const config = {
+  template: 'my-react-app',
+  author: ' Pranav,
+  description: 'A custom React project',
+};
